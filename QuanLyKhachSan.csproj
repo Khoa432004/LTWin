@@ -52,6 +52,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="abc.cs" />
     <Compile Include="All User Control\UC_AddRoom.cs">
       <SubType>UserControl</SubType>
     </Compile>
