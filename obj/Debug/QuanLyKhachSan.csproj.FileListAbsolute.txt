@@ -55,3 +55,18 @@ C:\Users\ADMIN\Source\Repos\LTWin\obj\Debug\QuanLyKh.7BBD220C.Up2Date
 C:\Users\ADMIN\Source\Repos\LTWin\obj\Debug\QuanLyKhachSan.exe
 C:\Users\ADMIN\Source\Repos\LTWin\obj\Debug\QuanLyKhachSan.pdb
 C:\Users\ADMIN\Source\Repos\LTWin\obj\Debug\QuanLyKhachSan.Testabc.resources
+D:\Nam 2 HK2\DoAnWinForm\LTWin\bin\Debug\QuanLyKhachSan.exe.config
+D:\Nam 2 HK2\DoAnWinForm\LTWin\bin\Debug\QuanLyKhachSan.exe
+D:\Nam 2 HK2\DoAnWinForm\LTWin\bin\Debug\QuanLyKhachSan.pdb
+D:\Nam 2 HK2\DoAnWinForm\LTWin\bin\Debug\Guna.UI2.dll
+D:\Nam 2 HK2\DoAnWinForm\LTWin\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\Nam 2 HK2\DoAnWinForm\LTWin\obj\Debug\QuanLyKhachSan.All_User_Control.UC_AddRoom.resources
+D:\Nam 2 HK2\DoAnWinForm\LTWin\obj\Debug\QuanLyKhachSan.Dashboard.resources
+D:\Nam 2 HK2\DoAnWinForm\LTWin\obj\Debug\QuanLyKhachSan.Form1.resources
+D:\Nam 2 HK2\DoAnWinForm\LTWin\obj\Debug\QuanLyKhachSan.HHHForm2.resources
+D:\Nam 2 HK2\DoAnWinForm\LTWin\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Nam 2 HK2\DoAnWinForm\LTWin\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Nam 2 HK2\DoAnWinForm\LTWin\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Nam 2 HK2\DoAnWinForm\LTWin\obj\Debug\QuanLyKh.7BBD220C.Up2Date
+D:\Nam 2 HK2\DoAnWinForm\LTWin\obj\Debug\QuanLyKhachSan.exe
+D:\Nam 2 HK2\DoAnWinForm\LTWin\obj\Debug\QuanLyKhachSan.pdb
