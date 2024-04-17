@@ -70,3 +70,17 @@ D:\Nam 2 HK2\DoAnWinForm\LTWin\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs
 D:\Nam 2 HK2\DoAnWinForm\LTWin\obj\Debug\QuanLyKh.7BBD220C.Up2Date
 D:\Nam 2 HK2\DoAnWinForm\LTWin\obj\Debug\QuanLyKhachSan.exe
 D:\Nam 2 HK2\DoAnWinForm\LTWin\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\STRIX\Source\Repos\LTWin\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\STRIX\Source\Repos\LTWin\bin\Debug\QuanLyKhachSan.exe
+C:\Users\STRIX\Source\Repos\LTWin\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\STRIX\Source\Repos\LTWin\bin\Debug\Guna.UI2.dll
+C:\Users\STRIX\Source\Repos\LTWin\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\STRIX\Source\Repos\LTWin\obj\Debug\QuanLyKhachSan.All_User_Control.UC_AddRoom.resources
+C:\Users\STRIX\Source\Repos\LTWin\obj\Debug\QuanLyKhachSan.Dashboard.resources
+C:\Users\STRIX\Source\Repos\LTWin\obj\Debug\QuanLyKhachSan.Form1.resources
+C:\Users\STRIX\Source\Repos\LTWin\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\STRIX\Source\Repos\LTWin\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\STRIX\Source\Repos\LTWin\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\STRIX\Source\Repos\LTWin\obj\Debug\QuanLyKh.7BBD220C.Up2Date
+C:\Users\STRIX\Source\Repos\LTWin\obj\Debug\QuanLyKhachSan.exe
+C:\Users\STRIX\Source\Repos\LTWin\obj\Debug\QuanLyKhachSan.pdb

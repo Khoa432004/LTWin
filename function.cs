@@ -15,7 +15,7 @@ namespace QuanLyKhachSan
         protected SqlConnection getConnection()
         {
             SqlConnection con = new SqlConnection();
-            con.ConnectionString = @"Data Source=DESKTOP-BSIOOIV\DKHOA03;Initial Catalog=QuanLyKhachSan;Integrated Security=True";
+            con.ConnectionString = @"Data Source=LAPTOP-GGMPA3AS\KHANGNGUYEN;Initial Catalog=QuanLyKhachSan;Integrated Security=True";
             return con;
         }
         //
