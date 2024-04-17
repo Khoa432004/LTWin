@@ -52,7 +52,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="abc.cs" />
     <Compile Include="All User Control\UC_AddRoom.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -74,6 +73,12 @@
     <Compile Include="function.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Testabc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testabc.Designer.cs">
+      <DependentUpon>Testabc.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="All User Control\UC_AddRoom.resx">
       <DependentUpon>UC_AddRoom.cs</DependentUpon>
     </EmbeddedResource>
@@ -92,6 +97,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Testabc.resx">
+      <DependentUpon>Testabc.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

@@ -54,3 +54,4 @@ C:\Users\ADMIN\Source\Repos\LTWin\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInp
 C:\Users\ADMIN\Source\Repos\LTWin\obj\Debug\QuanLyKh.7BBD220C.Up2Date
 C:\Users\ADMIN\Source\Repos\LTWin\obj\Debug\QuanLyKhachSan.exe
 C:\Users\ADMIN\Source\Repos\LTWin\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\ADMIN\Source\Repos\LTWin\obj\Debug\QuanLyKhachSan.Testabc.resources
